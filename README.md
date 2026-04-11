@@ -1,36 +1,36 @@
-<h1 align="center">👋 Hola, soy Juan Manuel Pena</h1>
+<h1 align="center"> Hola, soy Juan Manuel Pena</h1>
 
 <p align="center">
   🚀 Software Developer
   <br/>
-  📍 Buenos Aires, Argentina
+   Buenos Aires, Argentina
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mí
+##  Sobre mí
 
 Desarrollador **Full Stack** con un enfoque integral en la calidad del software. Combino mi formación académica en la **UNLaM** con mi experiencia profesional técnica para construir soluciones escalables y automatizadas. Mi mentalidad se basa en el código limpio y la eficiencia operativa.
 
 ---
 
-## 🏗️ Backend, Calidad e Infraestructura
+##  Backend, Calidad e Infraestructura
 
 Mi enfoque actual combina el desarrollo de lógica de servidor con la garantía de calidad, integrando herramientas modernas mientras continúo especializándome en arquitecturas escalables.
 
-🔍 **Foco Técnico:**
+ **Foco Técnico:**
 - ☕ **Java Avanzado**: Dominio integral del lenguaje aplicando POO, Estructuras de Datos y metodologías **Test Driven Development (TDD)** con **JUnit**.
 - 🗄️ **Bases de Datos (En Formación)**: Profundizando en el diseño, normalización y consultas avanzadas en **SQL** como parte de mi formación académica en la UNLaM.
 - 🧪 **Ingeniería de Calidad & Automation**: Aplicación activa de **Playwright** y **Stagehand** para la optimización de flujos E2E, mientras continúo perfeccionando estrategias de automatización avanzada (En formación continua).
 - 🔌 **APIs & Monitoreo**: Análisis de APIs RESTful con Postman/Hoppscotch y observabilidad con **Grafana** para la detección temprana de fallos en sistemas productivos.
 
-⚙️ **Infraestructura y Automatización:**
+ **Infraestructura y Automatización:**
 - 🤖 **n8n (Self-hosted)**: Despliegue de instancias locales mediante **Docker** para la orquestación de flujos lógicos complejos.
 - 🔌 **Integración de IA**: Implementación de workflows que conectan modelos de **IA** con servicios externos, gestionando de forma segura API Keys y credenciales.
 
 ---
 
-## 🔎 Me destaco por:
+##  Me destaco por:
 
 - 🧠 **Capacidad Analítica**: Lógica estructurada para resolver desafíos técnicos complejos y optimizar algoritmos.
 - 🏗️ **Arquitectura Modular**: Desarrollo de interfaces escalables con **React.js** y **Next.js** bajo buenas prácticas de accesibilidad.
@@ -40,7 +40,7 @@ Mi enfoque actual combina el desarrollo de lógica de servidor con la garantía 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### 📱 Frontend & UI
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -65,7 +65,7 @@ Mi enfoque actual combina el desarrollo de lógica de servidor con la garantía 
 
 ---
 
-## 💼 Proyectos Destacados
+##  Proyectos Destacados
 
 | Proyecto | Descripción | Tecnología | Enlace |
 |:--- |:--- |:--- |:---:|
@@ -76,7 +76,7 @@ Mi enfoque actual combina el desarrollo de lógica de servidor con la garantía 
 
 ---
 
-## 🧠 Formación Académica
+##  Formación Académica
 
 - 🏫 **UNLaM** - Técnico Universitario en Desarrollo Web (**Promedio Destacable**)
 - 🎓 **CoderHouse** - Carrera de Frontend Developer
@@ -86,7 +86,7 @@ Mi enfoque actual combina el desarrollo de lógica de servidor con la garantía 
 
 ---
 
-## 🗣️ Idiomas
+##  Idiomas
 
 - **Español**: Nativo 🇦🇷
 - **Inglés**: Nivel B2 (Competencia técnica completa) 🇺🇸
@@ -94,11 +94,11 @@ Mi enfoque actual combina el desarrollo de lógica de servidor con la garantía 
 
 ---
 
-## 🤝 Contacto
+##  Contacto
 
 - 💼 **LinkedIn**: [linkedin.com/in/juanmanuelpena1](https://www.linkedin.com/in/juanmanuelpena1/)
 - 📬 **Email**: [juanma.pena1234@gmail.com](mailto:juanma.pena1234@gmail.com)
 
 ---
 
-_💡 “La calidad no es un acto, es un hábito. Construyendo el software del mañana con rigor técnico hoy.”_
+_ “La calidad no es un acto, es un hábito. Construyendo el software del mañana con rigor técnico hoy.”_
