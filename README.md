@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Juan Manuel Pena</h1>
 
 <p align="center">
-  🚀 Software Developer Trainee | 🌐 Full Stack Developer
+  🚀 Software Developer Trainee
   <br/>
   📍 Buenos Aires, Argentina
 </p>
