@@ -1,7 +1,7 @@
 <h1 align="center"> Hola, soy Juan Manuel Pena</h1>
 
 <p align="center">
-  🚀 Software Developer
+  🚀 Software Developer | QA Analyst
   <br/>
    Buenos Aires, Argentina
 </p>
