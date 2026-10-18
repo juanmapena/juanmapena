@@ -99,6 +99,3 @@ Mi enfoque actual combina el desarrollo de lógica de servidor con la garantía 
 - 💼 **LinkedIn**: [linkedin.com/in/juanmanuelpena1](https://www.linkedin.com/in/juanmanuelpena1/)
 - 📬 **Email**: [juanma.pena1234@gmail.com](mailto:juanma.pena1234@gmail.com)
 
----
-
-_ “La calidad no es un acto, es un hábito. Construyendo el software del mañana con rigor técnico hoy.”_
