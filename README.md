@@ -53,7 +53,7 @@ Desarrollador enfocado en el ciclo completo de vida del software y la ingenierí
 | Proyecto | Descripción | Stack | Enlace |
 | :--- | :--- | :--- | :---: |
 | 💼 **Portfolio Web** | Sitio personal interactivo y responsive con diseño moderno y modular. | Web / Framer | [🌐 Web](https://portfolio-pena.framer.website/) |
-| 📦 **Droppi** | Aplicación web orientada a servicios y gestión de envíos/logística. | Frontend | [🌐 Web](https://droppi-vei.netlify.app/) |
+| 🩸 **Droppi** | Plataforma web orientada a la concientización y gestión de donación de sangre. | Frontend | [🌐 Web](https://droppi-vei.netlify.app/) |
 | 💰 **Wallet Diet** | Herramienta diseñada para el control, registro y balance de finanzas personales. | Frontend / App | [💻 Repo](https://github.com/juanmapena/wallet-diet) |
 | 🛡️ **Testing Avanzado & TDD** | Implementación de lógica de negocio y arquitectura robusta con cobertura de tests unitarios. | Java, JUnit | [💻 Repo](https://github.com/emanuelruizdiazok/ProyectoProgramacionAvanzada) |
 | ⚡ **Appscend** | Landing interactiva orientada a producto y diseño de interfaz responsive. | JS, HTML5, CSS3 | [🌐 Web](https://appscend.netlify.app/) |
