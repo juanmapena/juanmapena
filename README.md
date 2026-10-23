@@ -7,13 +7,13 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 Desarrollador enfocado en el ciclo completo de vida del software y la ingeniería de calidad. Combino mi formación en la **UNLaM** con experiencia práctica en desarrollo backend, frontend y automatización, priorizando siempre el código limpio, la fiabilidad y la eficiencia operativa.
 
 ---
 
-## 🛠️ Backend, Calidad e Infraestructura
+## Backend, Calidad e Infraestructura
 
 - ☕ **Java & TDD**: Desarrollo aplicando POO, estructuras de datos y metodologías **Test Driven Development (TDD)** con **JUnit**.
 - 🗄️ **Bases de Datos Relacionales**: Modelado, diseño, normalización y consultas estructuradas con **SQL** y motores relacionales.
@@ -23,7 +23,7 @@ Desarrollador enfocado en el ciclo completo de vida del software y la ingenierí
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Frontend & UI
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -48,7 +48,7 @@ Desarrollador enfocado en el ciclo completo de vida del software y la ingenierí
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 | Proyecto | Descripción | Stack | Enlace |
 | :--- | :--- | :--- | :---: |
@@ -60,7 +60,7 @@ Desarrollador enfocado en el ciclo completo de vida del software y la ingenierí
 
 ---
 
-## 📚 Formación Continua
+## Formación Continua
 
 - 🏫 **Universidad Nacional de La Matanza (UNLaM)** — Tecnicatura Universitaria en Desarrollo Web *(Promedio destacable)*
 - 🎓 **CoderHouse** — Carrera de Frontend Developer *(Desarrollo Web con HTML/CSS/SASS, JavaScript y React.js)*
@@ -71,7 +71,7 @@ Desarrollador enfocado en el ciclo completo de vida del software y la ingenierí
 
 ---
 
-## 🌐 Idiomas
+## Idiomas
 
 - **Español**: Nativo 🇦🇷
 - **Inglés**: Nivel B2 (Fluidez profesional y técnica) 🇺🇸
@@ -79,7 +79,7 @@ Desarrollador enfocado en el ciclo completo de vida del software y la ingenierí
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 - 💼 **LinkedIn**: [linkedin.com/in/juanmanuelpena1](https://www.linkedin.com/in/juanmanuelpena1/)
 - 📬 **Email**: [juanma.pena1234@gmail.com](mailto:juanma.pena1234@gmail.com)
